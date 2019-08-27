@@ -200,7 +200,7 @@ body{
 	font-family: "Lekton", monospace;
 	font-size: 1.15rem;
 	font-display: auto;
-        height:100%;
+       
 }
 
 h6 {
@@ -228,6 +228,4 @@ button:hover {
 .swal-button-container {
 	display: inline;
 }
-.overflow-scroll {
--webkit-overflow-scrolling:touch;
-}
+
