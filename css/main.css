@@ -228,6 +228,6 @@ button:hover {
 .swal-button-container {
 	display: inline;
 }
-.overflow: scroll {
+.overflow:scroll {
 -webkit-overflow-scrolling:touch;
 }
