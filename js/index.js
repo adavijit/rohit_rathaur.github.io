@@ -255,7 +255,7 @@ function(data, status){
     $('#believe').html('<h4>I believe</h4><span></span>');
     const typed = new Typed('#believe span', {
         strings: profile.qoutes,
-        typeSpeed: 20,
+        typeSpeed: 5,
         cursorChar:"_",
         loop:true
     });
