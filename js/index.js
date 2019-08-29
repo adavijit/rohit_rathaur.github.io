@@ -121,7 +121,7 @@ $('#blog').html(blogHtml);
 }
 
 function onBodyLoad(){
-console.log('body loaded calling');
+console.log('body loaded called');
 $('div.progress').css('display','none');
 $('div.content').css('display','block');
 $('.collapsible').collapsible({
