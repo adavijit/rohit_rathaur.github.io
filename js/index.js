@@ -121,7 +121,7 @@ $('#blog').html(blogHtml);
 }
 
 function onBodyLoad(){
-console.log('body loaded called');
+console.log('body loaded calling');
 $('div.progress').css('display','none');
 $('div.content').css('display','block');
 $('.collapsible').collapsible({
@@ -267,6 +267,6 @@ function(data, status){
     loadWorks(profile.experince);
     loadEducations(profile.educations);
     loadGlob4lh3llSays();
-    console.log('body loaded calling');
+    console.log('body loaded called');
     onBodyLoad();
 });
