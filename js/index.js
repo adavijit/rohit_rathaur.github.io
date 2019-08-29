@@ -267,6 +267,6 @@ function(data, status){
     loadWorks(profile.experince);
     loadEducations(profile.educations);
     loadGlob4lh3llSays();
-    console.log('body loaded called');
+    console.log('body loaded calling');
     onBodyLoad();
 });
