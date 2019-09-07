@@ -190,7 +190,7 @@ if(value===true) {
         }
     }).then((value)=>{
         if(value===true) { 
-            window.open('https://github.com/glob4lh3ll/rohit_rathaur.github.io/blob/master/Resume_Rohit_Singh_Rathaur.pdf');
+            window.open('/Resume_Rohit_Singh_Rathaur.pdf');
         }
     })
 }
