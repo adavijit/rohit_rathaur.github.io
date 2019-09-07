@@ -206,11 +206,11 @@ function loadGlob4lh3llSays() {
 const glob4lh3llSaysInnerHtml = `<div class="col m6">
     <h6>Recipe for this website:</h6>	
     <div class="row">
-        Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/TeAmP0is0N">TeAmP0is0N</a> covered it up for everyone out their. 
+        Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/glob4lh3ll">glob4lh3ll</a> covered it up for everyone out their. 
         All the content on this website is dynamically loaded from JSON data.
-        Fork this <a href="https://github.com/TeAmP0is0N/rohit-rathaur.github.io">repo</a> on github and edit <a href="https://github.com/moghya/rohit-rathaur.github.io/blob/master/js/profile.json">js/profile.json</a> for adding your data.
+        Fork this <a href="https://github.com/glob4lh3ll/rohit_rathaur.github.io">repo</a> on github and edit <a href="https://github.com/rohit_rathaur.github.io/blob/master/js/profile.json">js/profile.json</a> for adding your data.
         <a href="https://medium.com/howcatcancode/developer-profile-template-2017-219f43147efe">Read more</a><br>
-        If you like this website, consider giving a star to its repo <a href="https://github.com/TeAmP0is0N/rohit-rathaur.github.io">here</a>.
+        If you like this website, consider giving a star to its repo <a href="https://github.com/glob4lh3ll/rohit_rathaur.github.io">here</a>.
     </div>
 </div>
 <div class="col m6">
