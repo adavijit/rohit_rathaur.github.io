@@ -190,7 +190,7 @@ if(value===true) {
         }
     }).then((value)=>{
         if(value===true) { 
-            window.open('/docs/Resume_Rohit_Singh_Rathaur.pdf');
+            window.open('/Resume_Rohit_Singh_Rathaur.pdf');
         }
     })
 }
