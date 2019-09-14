@@ -285,17 +285,17 @@
 	],
 	"experince": [
 		{
-			"sn": 0,
-			"link": "https://www.hackerearth.com/",
-			"workPosition": "Campus Ambassador",
-			"periodStart": "January 2019",
-			"periodEnd": "August 2019",
-			"organisation": "HackerEarth",
-			"experience": "<ul><li>To promote competitive programming within my university.</li><li>To organize programming events and meetups.</li><li>To organize programming competitions and get sponsored by HackerEarth.</li><li>To connect with other ambassadors, share resources and get to know about fellow coders around the globe.Participated in student group discussions to stimulate insights. Circulated fliers, displayed posters and oered promotional items on campus to introduce students to competitive Programming.</li></ul>",
+			"sn": 4,
+			"link": "",
+			"workPosition": "NSS Volunter",
+			"periodStart": "July 2018",
+			"periodEnd": "Present",
+			"organisation": "National Service Scheme",
+			"experience": "NSS provide is to improve my own thought process by doing community services. NSS volunteers take care of Blood donation, cleanliness,child education,health awareness issues and many other activities.",
 			"type": "volunteer"
 		},
 		{
-			"sn": 1,
+			"sn": 3,
 			"link": "https://www.jindalintellicom.com/",
 			"workPosition": "BPO Intern",
 			"periodStart": "June 2019",
@@ -315,17 +315,7 @@
 			"type": "student partner"
 		},
 		{
-			"sn": 3,
-			"link": "#",
-			"workPosition": "NSS Volunter",
-			"periodStart": "July 2018",
-			"periodEnd": "Present",
-			"organisation": "National Service Scheme",
-			"experience": "NSS provide is to improve my own thought process by doing community services. NSS volunteers take care of Blood donation, cleanliness,child education,health awareness issues and many other activities.",
-			"type": "volunteer"
-		},
-		{
-			"sn": 4,
+			"sn": 1,
 			"link": "https://www.bitmesra.ac.in/",
 			"workPosition": "Research Assistant",
 			"periodStart": "August 2019",
@@ -333,7 +323,17 @@
 			"organisation": "Department of Mathematics",
 			"experience": "Despite the success of deep learning in various tasks, its limiting factor is that its understanding remains underdeveloped, which in turn translates into a lack of principled methods to design efficient deep-neural-network architectures. Working under Assistant Professor Dr. Prabjot Kaur.",
 			"type": "Neural Network work"
-		}
+		},
+		{
+			"sn": 0,
+			"link": "https://www.hackerearth.com/",
+			"workPosition": "Campus Ambassador",
+			"periodStart": "January 2019",
+			"periodEnd": "August 2019",
+			"organisation": "HackerEarth",
+			"experience": "<ul><li>To promote competitive programming within my university.</li><li>To organize programming events and meetups.</li><li>To organize programming competitions and get sponsored by HackerEarth.</li><li>To connect with other ambassadors, share resources and get to know about fellow coders around the globe.Participated in student group discussions to stimulate insights. Circulated fliers, displayed posters and oered promotional items on campus to introduce students to competitive Programming.</li></ul>",
+			"type": "volunteer"
+		},
 	],
 	"projects": [
 		{
