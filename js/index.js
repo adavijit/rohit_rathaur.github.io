@@ -46,10 +46,9 @@ function loadWorks(experince){
 experince.sort(function(a,b){
     return a.sn-b.sn;
 });
-var i;
 var works = experince.filter((experince)=>experince.type=="work");
 var worksInnerHTML = '';
-for(i=0;i<works.length;i++){
+for(var i=0;i<works.length;i++){
     worksInnerHTML+=`
     <div class="row work">
         <div class="row title">
