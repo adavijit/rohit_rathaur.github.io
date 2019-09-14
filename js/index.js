@@ -48,7 +48,7 @@ experince.sort(function(a,b){
 });
 var i;
 var works = experince.filter((experince)=>experince.type=="work");
-var worksInnerHTML = '';
+var worksInnerHTML = ' ';
 for(i=0;i<works.length;i++){
     worksInnerHTML+=`
     <div class="row work">
