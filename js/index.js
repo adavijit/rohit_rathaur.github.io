@@ -188,7 +188,7 @@ if(value===true) {
         }
     }).then((value)=>{
         if(value===true) { 
-            window.open('/Resume_Rohit_Singh_Rathaur.pdf');
+            window.open('/rohit_rathaur.github.io/Resume_Rohit_Singh_Rathaur.pdf');
         }
     })
 }
